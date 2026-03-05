@@ -1,2 +1,3 @@
 Hello Git - Resolved Version
 Feature code
+Rebase feature
