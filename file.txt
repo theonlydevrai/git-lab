@@ -1,2 +1,2 @@
-Hello Git - Main Branch
+Hello Git - Resolved Version
 Feature code
